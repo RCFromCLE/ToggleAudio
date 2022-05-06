@@ -4,18 +4,16 @@ Changes windows 10 default audio device between any two devices - $defaultdevice
 
 ## Setup
 
-Dependencies -
+1. Install nircmd - https://nircmd.nirsoft.net/
 
-https://nircmd.nirsoft.net/
+2. Clone repo down to your home directory
 
-1. Clone repo down to your home directory
+3. change $defaultdevice1 and $defaultdevice2 to the devices you want to switch between
 
-2. change $defaultdevice1 and $defaultdevice2 to the devices you want to switch between
+4. change hidden.vbs to match your machine's path
 
-3. change hidden.vbs to match your machine's path
+5. update toggleaudio shortcut target and shortcut key
 
-4. update toggleaudio shortcut target and shortcut key
-
-5. place shortcut on desktop, happy audio toggling :)
+6. place shortcut on desktop, happy audio toggling :)
 
 Credit: https://stackoverflow.com/questions/59393574/how-to-identify-the-default-audio-device-in-powershell
