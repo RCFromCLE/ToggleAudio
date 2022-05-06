@@ -1,6 +1,6 @@
 # ToggleAudio
 
-Changes windows 10 default audio device between any two devices - $defaultdevice1 and $defaultdevice2
+Changes default audio device between any two devices - $defaultdevice1 and $defaultdevice2
 
 ## Setup
 
