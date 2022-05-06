@@ -12,7 +12,8 @@ Credit: https://stackoverflow.com/questions/59393574/how-to-identify-the-default
 
 2. Clone repo down to your home directory.
 
-3. In ToggleAudio.ps1, change $defaultdevice1 and $defaultdevice2 to the devices you want to switch between.
+3. In ToggleAudio.ps1, change $defaultdevice1 and $defaultdevice2 to the audio devices you want to switch between. 
+   a. Change line 42 to match your audio device name and not the variable, this needs to be reworked to work with variable.
 
 4. In hidden.vbs, change command =  to contain your machine's path.
 
