@@ -4,6 +4,8 @@ Changes default audio device between any two devices - $defaultdevice1 and $defa
 
 I use this to switch between my headphones and desktop speakers by simply hitting ctrl + alt + home.
 
+Credit: https://stackoverflow.com/questions/59393574/how-to-identify-the-default-audio-device-in-powershell
+
 ## Setup
 
 1. Install nircmd - https://nircmd.nirsoft.net/
@@ -19,5 +21,3 @@ I use this to switch between my headphones and desktop speakers by simply hittin
 6. Still in properties of toggleaudio.lnk set a hotkey, I used ctrl + alt + home.
 
 7. Place shortcut on desktop (will not work from anywhere else), happy audio toggling :)
-
-Credit: https://stackoverflow.com/questions/59393574/how-to-identify-the-default-audio-device-in-powershell
