@@ -2,6 +2,8 @@
 
 Changes default audio device between any two devices - $defaultdevice1 and $defaultdevice2
 
+I use this to switch between my headphones and desktop speakers by simply hitting ctrl + alt + home.
+
 ## Setup
 
 1. Install nircmd - https://nircmd.nirsoft.net/
